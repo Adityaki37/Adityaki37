@@ -11,7 +11,6 @@ Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -21,6 +20,11 @@ Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Three.JS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-008080?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/adityainduri)
@@ -28,4 +32,4 @@ Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I
 [![X](https://img.shields.io/badge/X-000000?&logo=X&logoColor=white)](https://x.com/InduriAdit1301)
 
 ## ⌨ Top Languages:
-![Top Languages](https://ghstats.dev/api/langs?username=Adityaki37&layout=bar&v3)
+![Top Languages](https://ghstats.dev/api/langs?username=Adityaki37&layout=bar&v4)
