@@ -28,4 +28,4 @@ Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I
 [![X](https://img.shields.io/badge/X-000000?&logo=X&logoColor=white)](https://x.com/InduriAdit1301)
 
 ## ⌨ Top Languages:
-![Top Languages](https://ghstats.dev/api/langs?username=Adityaki37&layout=bar&v2)
+![Top Languages](https://ghstats.dev/api/langs?username=Adityaki37&layout=bar&v3)
