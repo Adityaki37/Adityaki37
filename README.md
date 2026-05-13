@@ -1,5 +1,13 @@
 ## 🙆🏾‍♂️ About Me
-Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I'm passionate about building and scaling ideas from concept to execution, particularly in areas I'm interested in like Robotics and AI. www.adityainduri.com
+Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I'm passionate about building and scaling ideas from concept to execution, particularly in areas I'm interested in like AI and Robotics.
+
+Selected Projects:
+
+Personal website - www.adityainduri.com  
+Fireboy & Watergirl AI - https://www.youtube.com/watch?v=to107gIfwyg  
+Hephasbot (Teleop for a robot arm) - https://www.hephasbot.com/  
+Asteroid Run (A simple video game) - https://www.youtube.com/watch?v=Xsz67_xib_Y
+
 
 # 💻 Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
