@@ -39,4 +39,4 @@ Asteroid Run (A simple video game) - https://www.youtube.com/watch?v=Xsz67_xib_Y
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-induri/)
 
 ## ⌨ Top Languages:
-![Top Languages](https://ghstats.dev/api/langs?username=Adityaki37&layout=bar&v5)
+![Top Languages](https://ghstats.dev/api/langs?username=Adityaki37&layout=bar&v6)
