@@ -4,7 +4,7 @@ Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I
 Selected Projects:
 
 Personal website - www.adityainduri.com  
-Pocodex (Repository of Pokemon Codex Pets) - www.pocodex.com
+Pocodex (Repository of 900+ Pokemon Codex Pets) - www.pocodex.com  
 Fireboy & Watergirl AI - https://www.youtube.com/watch?v=to107gIfwyg  
 Hephasbot (Teleop for a robot arm) - https://www.hephasbot.com/  
 Asteroid Run (A simple video game) - https://www.youtube.com/watch?v=Xsz67_xib_Y
