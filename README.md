@@ -1,5 +1,5 @@
 ## 🙆🏾‍♂️ About Me
-Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU. I'm passionate about building and scaling ideas from concept to execution, particularly in areas I'm interested in like AI and Robotics.
+Hi! I'm Aditya Induri, a student studying Finance and Computer Science at OSU.
 
 Selected Projects:
 
